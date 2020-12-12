@@ -1,2 +1,3 @@
-# data_science_interviews
-practice data science interviews
+# Data Science Coding Interviews
+
+Practice datasets for coding interviews
